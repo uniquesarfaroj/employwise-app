@@ -25,7 +25,7 @@ This app provides a comprehensive **user management system** that includes:
 
 Check out the live demo of the project:
 
-[**View Live Demo**](https://your-live-demo-link.com)
+[**View Live Demo**]((https://employwise-app-omega.vercel.app/))
 
 ---
 
