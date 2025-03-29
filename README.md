@@ -65,7 +65,6 @@ This application implements basic error handling to handle common issues:
   
 ---
 
- EmployWise Assignment (Vite React)
 
 ## Overview
 A React-based user management app featuring authentication, CRUD operations, a paginated user list, and responsive design using the Reqres API for data handling and Bootstrap for styling.
@@ -100,6 +99,7 @@ npm run dev
 
 This will start the development server and open the app in your default browser at http://localhost:3000.
 
+---
 
 ### Cheers to Building Great Things! 🚀
 
