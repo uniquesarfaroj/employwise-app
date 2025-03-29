@@ -65,6 +65,42 @@ This application implements basic error handling to handle common issues:
   
 ---
 
+ EmployWise Assignment (Vite React)
+
+## Overview
+A React-based user management app featuring authentication, CRUD operations, a paginated user list, and responsive design using the Reqres API for data handling and Bootstrap for styling.
+
+## Setup with Vite
+
+### 1. Clone the repository:
+**bash
+
+git clone <repository-url>
+cd employwise-assignment
+
+### 2.  Install dependencies:
+**bash
+
+npm install
+
+### 3. Install react-router-dom for routing:
+**bash
+
+npm install react-router-dom
+
+### 4. Install axios for API calls:
+**bash
+
+npm install axios
+
+### 5. Run the application:
+**bash
+
+npm run dev
+
+This will start the development server and open the app in your default browser at http://localhost:3000.
+
+
 ### Cheers to Building Great Things! 🚀
 
 Thank you for exploring this project. If you have any questions or feedback, don't hesitate to reach out or open an issue.
